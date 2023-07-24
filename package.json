@@ -2,21 +2,18 @@
   "name": "bunker",
   "displayName": "Dobri Next - Themes and Icons",
   "description": "23 colorful and meticulous dark theme and 2 Icons pack. 2 themes for Linux",
-  "version": "1.1.6",
-  "publisher": "sldobri",
+  "version": "1.1.7",
+  "publisher": "ItsSunnyMonster",
   "license": "Apache-2.0",
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#0B1015",
     "theme": "dark"
   },
-  "homepage": "https://github.com/sldobri/bunker/blob/master/README.md",
+  "homepage": "https://github.com/ItsSunnyMonster/dobri-next-theme/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sldobri/bunker.git"
-  },
-  "bugs": {
-    "url": "https://github.com/sldobri/bunker/issues"
+    "url": "https://github.com/ItsSunnyMonster/dobri-next-theme.git"
   },
   "engines": {
     "vscode": "^1.12.0"
@@ -155,10 +152,5 @@
       }
     ]
   },
-  "dependencies": {},
-  "__metadata": {
-    "id": "1256df07-e7c0-4e17-bd23-96b617cf21bc",
-    "publisherId": "688471b5-3365-4cd5-8597-783c039d84e3",
-    "publisherDisplayName": "Sergio Luiz Dobri"
-  }
+  "dependencies": {}
 }
